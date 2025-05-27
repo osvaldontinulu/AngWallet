@@ -1,2 +1,2 @@
 # AngWallet
-Rapido e seguro 
+
